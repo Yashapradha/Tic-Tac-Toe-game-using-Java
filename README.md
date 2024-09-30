@@ -14,7 +14,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java. Two players 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-java.git
+   git clone https://github.com/Yashapradha/Tic-Tac-Toe-game-using-Java.git
    ```
 
 2. Navigate to the project directory:
